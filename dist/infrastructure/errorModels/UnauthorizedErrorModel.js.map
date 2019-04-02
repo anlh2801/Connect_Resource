@@ -1,0 +1,1 @@
+{"version":3,"file":"UnauthorizedErrorModel.js","sourceRoot":"","sources":["../../../infrastructure/errorModels/UnauthorizedErrorModel.ts"],"names":[],"mappings":";;AAAA,qDAA2C;AAC3C,MAAa,YAAa,SAAQ,0BAAS;IACvC,YAAY,OAAO;QACf,KAAK,CAAC,OAAO,EAAE,GAAG,CAAC,CAAC;IACxB,CAAC;CACJ;AAJD,oCAIC"}
